@@ -1,0 +1,6 @@
+## Interface: 90105
+## Title: !PetHealthAlerter
+## Notes: Alerts the player when their pet's health is getting low
+## Author: darkpsy3934
+## Version: 1.2
+Main.lua
